@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cristóbal Araya
+# 👋 ¡Hola! mi nombre es Cristóbal Araya
 
 ### 🧠 Hybrid Digital Marketing & Machine Learning Specialist | Full-Stack Python Developer
 

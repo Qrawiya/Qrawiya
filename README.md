@@ -36,7 +36,7 @@ Tengo experiencia desarrollando aplicaciones web usando **Python y Django**, jun
 
 **Marketing Digital & Automatización**
 - SEO (on-page / off-page) · SEM · Google Ads
-- Google Analytics · Search Console · WordPress
+- Google Analytics · Search Console · WordPress / Wix
 - Automatización de reportes · CRM Management
 
 **AI & Machine Learning**

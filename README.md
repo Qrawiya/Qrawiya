@@ -25,6 +25,17 @@ Tengo experiencia desarrollando aplicaciones web usando **Python y Django**, jun
 - Deep Learning intermedio
 - Prompt Engineering para LLMs (ChatGPT, Gemini)
 - Exploratory Data Analysis (EDA)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ---
 

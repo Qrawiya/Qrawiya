@@ -10,8 +10,6 @@ Tengo experiencia desarrollando aplicaciones web usando **Python y Django**, jun
 
 ## 🛠️ Tecnologías & Herramientas
 
-### 🛠️ Tecnologías que uso
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
@@ -24,6 +22,9 @@ Tengo experiencia desarrollando aplicaciones web usando **Python y Django**, jun
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
+
 
 
 
